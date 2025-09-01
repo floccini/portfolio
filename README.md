@@ -20,5 +20,3 @@ A personal portfolio website built with React, TypeScript, Tailwind CSS, and Fra
 - **Technical Interests:** Focus on distributed systems, cloud architecture, and advanced TypeScript/React.
 - **Personal Side:** Enjoyment of custom keyboards, collecting figures, and photography.
 - **Design Taste:** Preference for clean, modern, and interactive web interfaces.
-
-## Project Structure
